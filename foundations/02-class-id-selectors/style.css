@@ -1,0 +1,19 @@
+p {
+  background-color: #f22256;
+  font-family: Verdana, "Roboto Slab", sans-serif;
+}
+
+p.so-cool {
+  font-size: 48px;
+}
+
+#num-two {
+  color: #1062e6;
+  font-size: 36px;
+}
+
+#num-four {
+  background-color: hsl(115, 81%, 50%);
+  font-size: 24px;
+  font-weight: bold;
+}
